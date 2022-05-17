@@ -1,6 +1,6 @@
 # Ronja Koistinen
 
-* Project Manager
+* Build & Release Engineer @ Tuxera
 * Freelance writer
 * Gamer
 * Rustacean
