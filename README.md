@@ -1,6 +1,6 @@
 # Ronja Koistinen
 
-* Build & Release Engineer @ Tuxera
+* Senior Software Engineer @ Tuxera (Build and Delivery team)
 * Freelance writer
 * Gamer
 * Rustacean
