@@ -1,6 +1,6 @@
 # Ronja Koistinen
 
-* Senior Software Engineer @ Tuxera (Build and Delivery team)
+* Lead Software Developer @ Hedengren Security
 * Freelance writer
 * Gamer
 * Rustacean
