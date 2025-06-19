@@ -1,6 +1,6 @@
 # Ronja Koistinen
 
-* Lead Software Developer @ Hedengren Security
+* Systems Specialist @ The National Library of Finland
 * Freelance writer
 * Gamer
 * Rustacean
